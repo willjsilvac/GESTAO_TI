@@ -1,0 +1,10 @@
+nohup: ignoring input
+
+> gestao-ti-frontend@0.0.0 dev /home/ubuntu/gestao-ti-frontend
+> vite --host
+
+
+  VITE v6.3.5  ready in 728 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://169.254.0.21:5173/
